@@ -1,0 +1,54 @@
+
+misc.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tagSelect
+  rotate: false
+  xy: 0, 100
+  size: 400, 144
+  orig: 400, 144
+  offset: 0, 0
+  index: -1
+nextButton_up
+  rotate: false
+  xy: 0, 0
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+finishButton
+  rotate: false
+  xy: 400, 144
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+noBox
+  rotate: false
+  xy: 400, 16
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yesBox
+  rotate: false
+  xy: 528, 16
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+injuredIcon
+  rotate: false
+  xy: 600, 212
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sickIcon
+  rotate: false
+  xy: 600, 180
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+
+jobSymbs.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+genJob
+  rotate: false
+  xy: 0, 288
+  size: 350, 144
+  orig: 350, 144
+  offset: 0, 0
+  index: -1
+heatJob
+  rotate: false
+  xy: 0, 144
+  size: 350, 144
+  orig: 350, 144
+  offset: 0, 0
+  index: -1
+radJob
+  rotate: false
+  xy: 350, 288
+  size: 350, 144
+  orig: 350, 144
+  offset: 0, 0
+  index: -1
+scavJob
+  rotate: false
+  xy: 0, 0
+  size: 350, 144
+  orig: 350, 144
+  offset: 0, 0
+  index: -1
+watJob
+  rotate: false
+  xy: 350, 144
+  size: 350, 144
+  orig: 350, 144
+  offset: 0, 0
+  index: -1

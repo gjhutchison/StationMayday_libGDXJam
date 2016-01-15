@@ -1,0 +1,40 @@
+
+tags.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tagCap
+  rotate: false
+  xy: 0, 288
+  size: 400, 144
+  orig: 400, 144
+  offset: 0, 0
+  index: -1
+tagDoc
+  rotate: false
+  xy: 0, 144
+  size: 400, 144
+  orig: 400, 144
+  offset: 0, 0
+  index: -1
+tagEng
+  rotate: false
+  xy: 400, 288
+  size: 400, 144
+  orig: 400, 144
+  offset: 0, 0
+  index: -1
+tagJan
+  rotate: false
+  xy: 0, 0
+  size: 400, 144
+  orig: 400, 144
+  offset: 0, 0
+  index: -1
+tagSecurity
+  rotate: false
+  xy: 400, 144
+  size: 400, 144
+  orig: 400, 144
+  offset: 0, 0
+  index: -1
